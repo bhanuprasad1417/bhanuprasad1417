@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhanuprasad1417
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...avulabhanuprasad6@gmail.com
 
 <!---
